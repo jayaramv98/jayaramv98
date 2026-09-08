@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Learning more about Data Structures, Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-Languages : JS, PHP, HTML, CSS, Python <br>
+Languages : Python, JS, PHP <br>
 Frameworks : Angular, Laravel, AngularJS, FastAPI <br>
 Tools : Git, Postman, TerraForm, Docker <br>
 Cloud : AWS - EC2, RDS, S3, Step Functions, Eventbridge, ECS, ECR, Bedrock, IAM, Lambda, SQS, KMS, Secrets Manager, VPC, CloudWatch <br>
