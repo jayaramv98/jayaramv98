@@ -14,6 +14,8 @@ Tools : Git, Postman, TerraForm, Docker <br>
 Cloud : AWS - EC2, RDS, S3, Step Functions, Eventbridge, ECS, ECR, Bedrock, IAM, Lambda, SQS, KMS, Secrets Manager, VPC, CloudWatch <br>
 DB : MySQL, MariaDB, DyanmoDB, Chroma Vector Store <br>
 IDE : PHPStorm, Cursor, Antigravity <br>
+Agent Orchestration Tools : LangGraph, LangChain <br>
+LLM/Embedding Models : Gemini, Cohere, Claude <br>
 <br/>
 
 <a href="https://github.com/AVS1508">
