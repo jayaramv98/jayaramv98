@@ -18,7 +18,7 @@ Agent Orchestration Tools : LangGraph, LangChain <br>
 LLM/Embedding Models : Gemini, Cohere, Claude <br>
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/jayaramv98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayaramv98&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaramv98&theme=buefy&layout=compact" />
 </a>
